@@ -1,0 +1,50 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "/assets/skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "/assets/skills/css.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "/assets/skills/c.png"
+    },
+    {
+      "title": "Bootstrap",
+      "imageSrc": "/assets/skills/bootstrap.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "/assets/skills/java.png"
+    },
+    {
+      "title": "PostgreSQL",
+      "imageSrc": "/assets/skills/postgresql.png"
+    },
+    {
+      "title": "Jira",
+      "imageSrc": "/assets/skills/jira.png"
+    },
+    {
+        "title": "JavaScript",
+        "imageSrc": "/assets/skills/js.png"
+    },
+    {
+        "title": "Python",
+        "imageSrc": "/assets/skills/python.png"
+    },
+    {
+        "title": "Node",
+        "imageSrc": "/assets/skills/node.png"
+    },
+    {
+        "title": "React",
+        "imageSrc": "/assets/skills/react.png"
+    },
+    {
+        "title": "Figma",
+        "imageSrc": "/assets/skills/figma.png"
+    }
+  ]

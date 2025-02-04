@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Role",
+      "organization": "Your Company Name Here",
+      "startDate": "???",
+      "endDate": "Present",
+      "experiences": ["Description", "Description"],
+      "imageSrc": "assets/history/YOUR LOGO HERE.png"
+    },
+    {
+      "role": "Role",
+      "organization": "Your Company Name Here",
+      "startDate": "???",
+      "endDate": "???",
+      "experiences": ["Description", "Description"],
+      "imageSrc": "/assets/history/YOUR LOGO HERE.png"
+    },
+    {
+      "role": "Intern",
+      "organization": "Your Company Name Here",
+      "startDate": "???",
+      "endDate": "???",
+      "experiences": [
+        "Description",
+        "Description"
+      ],
+      "imageSrc": "/assets/history/YOUR LOGO HERE.png"
+    }
+  ]

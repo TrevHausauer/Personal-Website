@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Canine Connect",
+      "imageSrc": "/assets/projects/canine connect logo.png",
+      "description": "This is a basic dog adoption web application made in a team with three other people using the Agile methodology. Complete with Login Authentication capabilities.",
+      "skills": ["HTML", "CSS", "C#", "Agile", "Jira"],
+      "source": "https://github.com/Karsten-Larson/CanineConnect"
+    },
+    {
+      "title": "This Web Application",
+      "imageSrc": "/assets/hero/trev.png",
+      "description": "This is a project I used to learn about better tools for modern web applications on my own time outside of University curriculum.",
+      "skills": ["React", "Node", "JavaScript", "CSS"],
+      "source": "https://trevhausauer.com"
+    },
+    {
+      "title": "Basic Python LLM (Large Language Model) Script",
+      "imageSrc": "/assets/projects/ollama.png",
+      "description": "Ollama is a fantastic free, open-source tool that allows LLMs to run locally.",
+      "skills": ["Python"],
+      "source": "https://github.com/TrevHausauer/Local-LLM"
+    }
+  ]
